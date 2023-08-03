@@ -1,2 +1,2 @@
 # STM32_UART
-UART through STLINK
+UART through VB_STLINK 2.1
